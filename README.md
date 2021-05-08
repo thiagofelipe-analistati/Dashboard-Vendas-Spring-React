@@ -4,10 +4,11 @@
 
 ## Deploy
 
-#### Back-end:
- Heroku: https://dashboard-vendas-spring-react.herokuapp.com/
+
 #### Front-end: 
 Netlify: https://thiago-dasdbord-vendas.netlify.app/
+#### Back-end:
+ Heroku: https://dashboard-vendas-spring-react.herokuapp.com/
 
 
 ## Layout web
