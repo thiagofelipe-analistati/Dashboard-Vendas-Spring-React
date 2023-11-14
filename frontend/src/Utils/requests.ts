@@ -1,1 +1,1 @@
-export const BASE_URL = process.env.REACT_APP_BACKEND_URL1 ??'https://backend-l5sdljx7ja-uc.a.run.app';
+export const BASE_URL = process.env.REACT_APP_BACKEND_URL ??'https://backend-l5sdljx7ja-uc.a.run.app';
